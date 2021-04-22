@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "Mega Autoclicker",
+  "name": "Popcat Autoclicker",
   "description": "Klikker for dig automatisk!",
   "version": "1.0",
 
   "browser_action": {
-   "default_icon": "popcat.png",
+   "default_icon": "logo.png",
    "default_popup": "popup.html"
   },
   "permissions": [
